@@ -1,6 +1,6 @@
 # Amigo Secreto 🎁
 
-![Capa do Projeto](screenshots/capa.png) <!-- Adicione uma imagem de capa -->
+![Capa do Projeto](amigo-secreto.webp) <!-- Adicione uma imagem de capa -->
 
 Um projeto simples e interativo para organizar sorteios de amigo secreto. Com esta aplicação, você pode adicionar participantes, realizar o sorteio e visualizar os resultados de forma fácil e divertida.
 
@@ -10,10 +10,6 @@ amigo-secreto/
 ├── index.html          # Página principal
 ├── style.css           # Estilos CSS
 ├── script.js           # Lógica JavaScript
-├── screenshots/        # Capturas de tela
-│   ├── add-participants.png
-│   ├── draw.png
-│   └── results.png
 └── README.md           
 
 ---
